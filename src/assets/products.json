@@ -1,0 +1,5 @@
+[ {"productId":101,"productName":"samsung s20 ultra", "productPrice":"12000","productDesc":"Samusung Mobile","productImg":"assets/img4.jpg"},
+    {"productId":102,"productName":"Apple iphone 12 pro", "productPrice":"10000","productDesc":"Iphone Mobile","productImg":"assets/img1.jpg"},
+    {"productId":103,"productName":"onePlus 9 pro", "productPrice":"69000","productDesc":"Oneplus Mobile","productImg":"assets/img2.jpg"},
+    {"productId":104,"productName":"asus rogphone 5", "productPrice":"50000","productDesc":"Asus Mobile","productImg":"assets/img3.jpg"}
+]
